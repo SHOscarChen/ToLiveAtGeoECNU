@@ -14,6 +14,12 @@
 
 ### Git
 Git是一个分布式版本控制系统，可以帮助你更好的管理你的代码。在这里我们只需要Git的命令行工具，不需要安装Git GUI。Git的安装可以参考[Git官网](https://git-scm.com/)。
+
+安装好git之后，记得设置你的用户名和邮箱，这些信息会包含在每次提交中，以便识别提交者：
+```shell
+git config --global user.name "你的用户名"
+git config --global user.email "你的邮箱"
+```
 ### 本地的一个项目
 初始化本地Git仓库：打开终端，导航到你的项目文件夹。
 输入以下命令初始化Git仓库：
@@ -60,12 +66,6 @@ ssh -T git@github.com
 git remote add origin <your-repository-URL>
 ```
 或者直接复制GitHub给出的SSH连接提示命令行，格式同上。
-
-推送之前，记得设置你的用户名和邮箱，这些信息会包含在每次提交中，以便识别提交者：
-```shell
-git config --global user.name "你的用户名"
-git config --global user.email "你的邮箱"
-```
 
 输入以下命令将本地仓库推送到GitHub：
 ```shell
