@@ -37,4 +37,4 @@
 
 ## 一些可能对你有帮助的资源
 <!-- - [为什么要使用PARA笔记](Resources) -->
-- [如何使用Github](Resources\HowtoUseGithub.md)
+- [如何使用Github](4Resources\HowtoUseGithub.md)
