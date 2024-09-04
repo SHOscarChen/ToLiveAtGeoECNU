@@ -1,6 +1,40 @@
 # 这是目录，也就是Contents，正在完善中
 - [写在最前面](README.md)
-- [关于拔尖班](AboutBaJianBan\BaJianBan.md)
-- [关于就业](AboutJiuYe\JiuYe.md)
-- [关于保研](AboutTuiMian\TuiMian.md)
-- [一些资源](Resources\HowtoUseGithub.md)
+
+## 序
+- 我眼中的“地理”
+
+## 未来的方向
+毕业之后
+- 关于保研
+- 关于留学
+- 关于就业
+- 其他
+
+很多年以后...
+
+## 地科院构成
+写在前面
+### 本科生教学班
+- 拔尖班
+- 基地班
+- 师范班
+- GIS班
+- GIS+AI班
+### 研究生专业方向
+本院开设：
+- 学硕：地图学与地理信息系统
+- 专硕：测绘工程
+- 专硕：气象学
+- 还有一些师范类的，查询后补充
+
+## 建议与经验
+提升**成绩**
+
+成长是一件漫长的事情
+
+享受大学生活
+
+## 一些可能对你有帮助的资源
+<!-- - [为什么要使用PARA笔记](Resources) -->
+- [如何使用Github](Resources\HowtoUseGithub.md)
