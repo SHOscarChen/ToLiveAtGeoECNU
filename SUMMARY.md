@@ -32,11 +32,10 @@
 
 ## 建议与经验
 - [提升**成绩**](3Useless\ImpoveScore.md)
-
-成长是一件漫长的事情
-
-享受大学生活
+- 成长是一件漫长的事情
+- 享受大学生活
 
 ## 一些可能对你有帮助的资源
 <!-- - [为什么要使用PARA笔记](Resources) -->
+- [本专业学习的有效工具、资源和渠道有哪些？](4Resources\MaybeUseful.md)
 - [如何使用Github](4Resources\HowtoUseGithub.md)
